@@ -1,0 +1,3 @@
+[submodule "spliteven"]
+	path = spliteven
+	url = git@github.com:Leo-Haker/spliteven.git
