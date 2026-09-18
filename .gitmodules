@@ -1,3 +1,9 @@
 [submodule "spliteven"]
 	path = spliteven
 	url = git@github.com:Leo-Haker/spliteven.git
+[submodule "Sommar2025"]
+	path = Sommar2025
+	url = git@github.com:Leo-Haker/Sommar2025.git
+[submodule "Cosmere"]
+	path = Cosmere
+	url = git@github.com:Leo-Haker/Cosmere.git
