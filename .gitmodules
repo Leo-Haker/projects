@@ -7,3 +7,6 @@
 [submodule "Cosmere"]
 	path = Cosmere
 	url = git@github.com:Leo-Haker/Cosmere.git
+[submodule "news-and-stock"]
+	path = news-and-stock
+	url = git@github.com:Leo-Haker/news-and-stock.git
